@@ -1,0 +1,146 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1793033931679",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 402
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "alpinejs",
+          "vue"
+        ],
+        "animationType": "zoom-out",
+        "animationPreviewKey": 15,
+        "animationDuration": 2000,
+        "hideBorder": true,
+        "backgroundColor": "transparent",
+        "customTitle": " Frontend"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1793034298733",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 535
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "php",
+          "laravel",
+          "postgres",
+          "mysql",
+          "supabase",
+          "sqlite"
+        ],
+        "customTitle": "Backend & Database",
+        "hideBorder": true,
+        "backgroundColor": "transparent",
+        "animationType": "zoom-out",
+        "animationPreviewKey": 1,
+        "animationDuration": 2000
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1793034300933",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 691
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "css",
+          "bootstrap",
+          "tailwind",
+          "github",
+          "git",
+          "vscode",
+          "npm",
+          "vercel",
+          "docker"
+        ],
+        "customTitle": "Styling & Tools",
+        "hideBorder": true,
+        "backgroundColor": "transparent",
+        "animationType": "zoom-out",
+        "animationPreviewKey": 1,
+        "animationDuration": 2000
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1793034741556",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#c084fc",
+        "ledColor": "#ff5555",
+        "modeTag": "198X MODE",
+        "animationType": "slide-down",
+        "animationPreviewKey": 17,
+        "animationDuration": 2300,
+        "customBio": "PHP Fullstack developer ",
+        "lockAspectRatio": true,
+        "roleTag": "Developer",
+        "hideDecorations": false,
+        "animationEasing": "ease-out",
+        "coords": "◎ 50.503900, 4.469900"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native_simple",
+    "transparentBackground": true
+  },
+  "templateId": "native_simple"
+}
